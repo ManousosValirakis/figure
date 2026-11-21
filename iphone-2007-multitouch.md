@@ -1,4 +1,3 @@
-
 ---
 author: ManousosValirakis
 title: "Apple iPhone (2007): Αλληλεπίδραση μέσω πολλαπλής αφής"

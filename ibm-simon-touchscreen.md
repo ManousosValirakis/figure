@@ -1,4 +1,3 @@
-
 ---
 author: ManousosValirakis
 title: "IBM Simon: Αλληλεπίδραση μέσω οθόνης αφής και γραφίδας"
